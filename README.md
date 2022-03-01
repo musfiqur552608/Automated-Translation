@@ -26,6 +26,6 @@
 -   pip install textblob
 -   from textblob import TextBlob
 
-## ⚡We can also use -
+## ⚡We can also use-
 -   py-translate
 -   Googletrans
