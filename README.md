@@ -11,7 +11,7 @@
 -   pip install goslate
 -   import goslate
 
-![ScreenShot](\ss\goslate.png)
+![ScreenShot](/ss/goslate.png)
 
 
 ## 🌱 Translate
