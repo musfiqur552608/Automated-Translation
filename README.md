@@ -21,12 +21,16 @@
 -   pip install translate
 -   from translate import translator
 
+![ScreenShot](/ss/translate.png)
+
 
 ## 💬 TextBlob
 -   Python library for processing textual data provides a simple API for diving into common NLP tasks such as classification, translation, and more.
 # Installation
 -   pip install textblob
 -   from textblob import TextBlob
+
+![ScreenShot](/ss/textblob.png)
 
 ## ⚡We can also use-
 -   py-translate
