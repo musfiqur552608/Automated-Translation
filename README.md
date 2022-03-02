@@ -11,6 +11,8 @@
 -   pip install goslate
 -   import goslate
 
+![alt text](/ss/goslate.png)
+
 
 ## 🌱 Translate
 -   Powerful translation tool with support for multiple translation providers.
